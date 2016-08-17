@@ -17,11 +17,11 @@ author:
   url: stefangulbrandsen.com
 name: CV
 navigation:
-  - name: linkedin
-    url: 'https://www.linkedin.com/in/stefan-meiforth-gulbrandsen-0715168?'
-    type: external
   - name: id.mngmnt
     url: 'http://www.idmanagement.no/'
+    type: external
+  - name: linkedin
+    url: 'https://www.linkedin.com/in/stefan-meiforth-gulbrandsen-0715168?'
     type: external
 title: Workforce of the future
 description: How long can you survive without evolving
