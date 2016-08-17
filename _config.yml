@@ -16,5 +16,8 @@ navigation:
   - name: linkedin
     url: 'https://www.linkedin.com/in/stefan-meiforth-gulbrandsen-0715168?'
     type: external
+  - name: id.mngmnt
+    url: 'http://www.idmanagement.no/'
+    type: external
 title: Who am I?
 description: ME!
