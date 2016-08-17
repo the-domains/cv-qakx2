@@ -19,5 +19,8 @@ navigation:
   - name: id.mngmnt
     url: 'http://www.idmanagement.no/'
     type: external
+  - name: VisualizeMe
+    url: 'http://www.vizualize.me/stefanmg#.V7SzqSiLREY'
+    type: external
 title: Who am I?
 description: ME!
