@@ -11,6 +11,10 @@ color:
     - '#79BD8F'
     - '#00A388'
 layout_spectrum: 0.6638904251158237
+author:
+  name: Stefan Meiforth Gulbrandsen
+  email: ssstefannn@gmail.com
+  url: stefangulbrandsen.com
 name: CV
 navigation:
   - name: linkedin
