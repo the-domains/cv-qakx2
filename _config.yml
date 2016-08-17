@@ -1,4 +1,3 @@
-layout_spectrum: 0.6638904251158237
 typography_spectrum: 0.012458258541300893
 color:
   brandStrength: 0.6772916507907212
@@ -6,9 +5,26 @@ color:
   saturation: 0.17180489003658295
   rhythmicContrast: 0.6134040656033903
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.6638904251158237
+author:
+  name: Stefan Meiforth Gulbrandsen
+  email: ssstefannn@gmail.com
+  url: stefangulbrandsen.com
 name: CV
+navigation:
+  - name: linkedin
+    url: 'https://www.linkedin.com/in/stefan-meiforth-gulbrandsen-0715168?'
+    type: external
+  - name: id.mngmnt
+    url: 'http://www.idmanagement.no/'
+    type: external
+  - name: VisualizeMe
+    url: 'http://www.vizualize.me/stefanmg#.V7SzqSiLREY'
+    type: external
+title: Workforce of the future
+description: How long can you survive without evolving
