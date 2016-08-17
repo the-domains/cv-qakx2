@@ -1,0 +1,14 @@
+layout_spectrum: 0.6638904251158237
+typography_spectrum: 0.012458258541300893
+color:
+  brandStrength: 0.6772916507907212
+  lightness: 0.3007336079608649
+  saturation: 0.17180489003658295
+  rhythmicContrast: 0.6134040656033903
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: CV
