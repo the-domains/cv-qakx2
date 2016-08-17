@@ -20,5 +20,8 @@ navigation:
   - name: id.mngmnt
     url: 'http://www.idmanagement.no/'
     type: external
+  - name: Blue Prism
+    url: 'http://www.blueprism.com/'
+    type: external
 title: Workforce of the future
 description: How long can you survive without evolving
