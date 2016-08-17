@@ -23,8 +23,5 @@ navigation:
   - name: id.mngmnt
     url: 'http://www.idmanagement.no/'
     type: external
-  - name: VisualizeMe
-    url: 'http://www.vizualize.me/stefanmg#.V7SzqSiLREY'
-    type: external
 title: Workforce of the future
 description: How long can you survive without evolving
