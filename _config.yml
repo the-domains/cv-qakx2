@@ -12,5 +12,9 @@ color:
     - '#00A388'
 layout_spectrum: 0.6638904251158237
 name: CV
+navigation:
+  - name: linkedin
+    url: 'https://www.linkedin.com/in/stefan-meiforth-gulbrandsen-0715168?'
+    type: external
 title: Who am I?
 description: ME!
