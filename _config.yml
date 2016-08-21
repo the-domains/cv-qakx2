@@ -23,5 +23,8 @@ navigation:
   - name: Blue Prism
     url: 'http://www.blueprism.com/'
     type: external
+  - name: About me
+    id: ba30121e-aaa8-42d1-9bfd-813f7ae6207f
+    type: content
 title: Workforce of the future!
 description: How long can you survive without evolving
